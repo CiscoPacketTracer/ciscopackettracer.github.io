@@ -6,11 +6,11 @@
 	
 	>
 <channel>
-	<title>Comments for Cisco Packet Tracer</title>
-	<atom:link href="https://ciscopackettracer.github.io/blog/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ciscopackettracer.github.io/blog/</link>
+	<title>Comments on: Download Cisco Packet Tracer 7.1.1</title>
+	<atom:link href="https://ciscopackettracer.github.io/blog/download-cisco-packet-tracer-7-1-1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ciscopackettracer.github.io/blog/download-cisco-packet-tracer-7-1-1/</link>
 	<description>Cisco Packet Tracer / Prepare for Cisco Exams with Cisco Packet Tracer! Like the Facebook Page of Cisco Packet Tracer!</description>
-	<lastBuildDate>Sun, 04 Mar 2018 10:02:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Mar 2018 10:02:20 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.4</generator>
