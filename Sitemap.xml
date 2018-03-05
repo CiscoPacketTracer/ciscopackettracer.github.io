@@ -12,9 +12,9 @@
 			<image:caption><![CDATA[Welcome to the Cisco Packet Tracer Blog]]></image:caption>
 		</image:image>
 	</url>
-		<url>
+	<url>
 		<loc>https://ciscopackettracer.github.io/blog/cisco-packet-tracer/</loc>
-		<lastmod>2018-03-04T09:49:26+00:00</lastmod>
+		<lastmod>2018-03-05T10:34:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://ciscopackettracer.github.io/blog/wp-content/uploads/What-is-Cisco-Packet-Tracer.png</image:loc>
 			<image:title><![CDATA[What is Cisco Packet Tracer]]></image:title>
@@ -23,11 +23,11 @@
 	</url>
 	<url>
 		<loc>https://ciscopackettracer.github.io/blog/download-cisco-packet-tracer-7-1-1/</loc>
-		<lastmod>2018-03-04T10:00:39+00:00</lastmod>
+		<lastmod>2018-03-05T10:39:41+00:00</lastmod>
 		<image:image>
 			<image:loc>https://ciscopackettracer.github.io/blog/wp-content/uploads/Download-Cisco-Packet-Tracer-7.1.1.png</image:loc>
-			<image:title><![CDATA[Download Cisco Packet Tracer 7.1.1]]></image:title>
-			<image:caption><![CDATA[Download Cisco Packet Tracer 7.1.1]]></image:caption>
+			<image:title><![CDATA[Download Packet Tracer 7.1.1]]></image:title>
+			<image:caption><![CDATA[Download Packet Tracer 7.1.1]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
