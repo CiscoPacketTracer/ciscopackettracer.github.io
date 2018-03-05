@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
- 
-Sitemap: https://ciscopackettracer.github.io/blog/Sitemap.xml
