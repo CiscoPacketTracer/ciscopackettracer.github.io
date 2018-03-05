@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for Cisco Packet Tracer</title>
+	<atom:link href="https://ciscopackettracer.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ciscopackettracer.github.io/</link>
+	<description>Cisco Packet Tracer / Prepare for Cisco Exams with Cisco Packet Tracer! Like the Facebook Page of Cisco Packet Tracer!</description>
+	<lastBuildDate>Mon, 05 Mar 2018 12:08:39 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+</channel>
+</rss>
