@@ -2,5 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ciscopackettracer.github.io/sitemap.xml
-
-Redirect 301 /blog/ /
