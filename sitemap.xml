@@ -1,62 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//ciscopackettracer.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>http://ciscopackettracer.github.io</loc>
-		<lastmod>2018-12-31T02:27:07+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://ciscopackettracer.github.io/welcome-cisco-packet-tracer-blog/</loc>
-		<lastmod>2018-12-31T02:22:05+00:00</lastmod>
-		<image:image>
-			<image:loc>http://ciscopackettracer.github.io/wp-content/uploads/2018/02/Welcome-to-the-Cisco-Packet-Tracer-Blog.png</image:loc>
-			<image:title><![CDATA[Welcome to the Cisco Packet Tracer Blog]]></image:title>
-			<image:caption><![CDATA[Welcome to the Cisco Packet Tracer Blog]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>http://ciscopackettracer.github.io/cisco-packet-tracer/</loc>
-		<lastmod>2018-12-31T02:23:18+00:00</lastmod>
-		<image:image>
-			<image:loc>http://ciscopackettracer.github.io/wp-content/uploads/What-is-Cisco-Packet-Tracer.png</image:loc>
-			<image:title><![CDATA[What is Cisco Packet Tracer]]></image:title>
-			<image:caption><![CDATA[What is Cisco Packet Tracer]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>http://ciscopackettracer.github.io/download-cisco-packet-tracer-7-1-1/</loc>
-		<lastmod>2018-12-31T02:24:03+00:00</lastmod>
-		<image:image>
-			<image:loc>http://ciscopackettracer.github.io/wp-content/uploads/Download-Cisco-Packet-Tracer-7.1.1.png</image:loc>
-			<image:title><![CDATA[Download Packet Tracer 7.1.1]]></image:title>
-			<image:caption><![CDATA[Download Packet Tracer 7.1.1]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>http://ciscopackettracer.github.io/where-can-i-download-cisco-packet-tracer-7-1-1/</loc>
-		<lastmod>2018-12-31T02:24:50+00:00</lastmod>
-		<image:image>
-			<image:loc>http://ciscopackettracer.github.io/wp-content/uploads/Download-Cisco-Packet-Tracer-7.1.1.png</image:loc>
-			<image:title><![CDATA[Where can I download Cisco Packet Tracer 7.1.1?]]></image:title>
-			<image:caption><![CDATA[Where can I download Cisco Packet Tracer 7.1.1?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>http://ciscopackettracer.github.io/how-to-use-cisco-packet-tracer-for-beginners/</loc>
-		<lastmod>2018-12-31T02:25:19+00:00</lastmod>
-		<image:image>
-			<image:loc>http://ciscopackettracer.github.io/wp-content/uploads/What-is-Cisco-Packet-Tracer.png</image:loc>
-			<image:title><![CDATA[How to Use Cisco Packet Tracer for Beginners?]]></image:title>
-			<image:caption><![CDATA[How to Use Cisco Packet Tracer for Beginners?]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>http://ciscopackettracer.github.io/where-do-i-download-cisco-packet-tracer-7-2/</loc>
-		<lastmod>2018-12-31T02:27:07+00:00</lastmod>
-		<image:image>
-			<image:loc>http://ciscopackettracer.github.io/wp-content/uploads/Where-do-I-download-Cisco-Packet-Tracer-7.2.png</image:loc>
-			<image:title><![CDATA[Where do I download Cısco Packet Tracer 7.2.1]]></image:title>
-			<image:caption><![CDATA[Where do I download Cisco Packet Tracer 7.2.1]]></image:caption>
-		</image:image>
-	</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ciscopackettracer.github.io/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/where-do-i-download-cisco-packet-tracer-7-2/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/how-to-use-cisco-packet-tracer-for-beginners/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/where-can-i-download-cisco-packet-tracer-7-1-1/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/download-cisco-packet-tracer-7-1-1/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/cisco-packet-tracer/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/welcome-cisco-packet-tracer-blog/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ciscopackettracer.github.io/author/cisco-packet-tracer/</loc>
+  <lastmod>2018-12-31T02:38:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
-<!-- XML Sitemap generated by Yoast SEO -->
